@@ -1,5 +1,7 @@
 ## <del>Cascading</del> *Cascalog* for the Impatient
 
+### *Notice:* This project has been moved to [https://github.com/Cascading/Impatient-Cascalog](https://github.com/Cascading/Impatient-Cascalog). Please use that link instead.
+
 Welcome to Cascalog for the Impatient, a series of tutorial 
 and [Cascalog](http://www.cascalog.org/) code examples to get you started. This series is a fork of [Cascading for the
 Impatient](http://www.cascading.org/category/impatient/).
